@@ -1,0 +1,15 @@
+Bear_18 killed Werewolf_4
+Bear_3 killed Werewolf_43
+Robber_23 killed Bear_36
+Werewolf_29 killed Robber_33
+Bear_47 killed Werewolf_49
+Robber_1 killed Bear_24
+Robber_15 killed Bear_3
+Robber_38 killed Bear_47
+Bear_29 killed Werewolf_11
+Werewolf_28 killed Robber_46
+Werewolf_0 killed Robber_12
+Bear_10 killed Werewolf_41
+Werewolf_4 killed Robber_27
+Robber_21 killed Bear_45
+Robber_8 killed Bear_40
